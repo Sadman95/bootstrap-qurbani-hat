@@ -1,0 +1,16 @@
+.nav-item .active{
+    background-color: darkgoldenrod;
+    color: lavenderblush !important;
+}
+.carousel-control-prev-icon{
+    margin-right: 8em;
+}
+.carousel-control-next-icon{
+    margin-left: 8em;
+}
+.carousel img{
+    height: 250px;
+}
+.fixed-height{
+    height: 200px;
+}
