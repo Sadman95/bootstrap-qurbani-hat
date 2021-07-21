@@ -1,4 +1,5 @@
 body{
+    position: relative;
     overflow-x: hidden;
 }
 .nav-item .active{
@@ -16,4 +17,10 @@ body{
 }
 .fixed-height{
     height: 200px;
+}
+.go-top{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    font-size: 20px;
 }
