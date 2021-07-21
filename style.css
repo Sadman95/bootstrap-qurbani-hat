@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .nav-item .active{
     background-color: darkgoldenrod;
     color: lavenderblush !important;
